@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Poppins;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  letter-spacing: 5px;
+  background-color: #F0E5CF;
+}
+
+button{
+  padding: 8px;
+  background-color: #023047;
+}
+
+button:hover{
+  color: black;
+  background-color: #ffb703;
+}
+
+img {
+  border-radius: 50%;
+  width: 350px;
+}
+
+h1 {
+  color: black;
+  border: 2px solid black;
+  box-shadow: 2px 2px 2px 2px #3D3C42 ;
+  font-weight: bold;
+  text-align: center;
+  font-size: 3rem;
+  margin: 10px 50px;
+}
+
+h4 {
+  color: #7F8487;
+  font-size: 2rem;
+  margin: 10px 50px;
+}
+
+.icons {
+  margin: 10px 50px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+}
+
+.ai {
+  text-decoration: none;
+  color: #4B6587;
+  font-size: 2.5rem;
+}
+
+.ai:hover {
+  color: #ffb703;
+}
+
+.i {
+  margin-right: 20px;
+}
+
+.profile-text {
+  margin: 0 40px;
+}
+
+.hire-me{
+  text-align: center;
+  padding: 10px;
+}
