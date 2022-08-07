@@ -29,7 +29,7 @@ function App() {
                            className="i ai">
                             <FontAwesomeIcon icon={faYoutube}/>
                         </a>
-                        <a href="" target="_blank" className="ai">
+                        <a href="https://discord.gg/uJ3QJFjq5B" target="_blank" className="ai">
                             <FontAwesomeIcon icon={faDiscord}/>
                         </a>
                     </p>
