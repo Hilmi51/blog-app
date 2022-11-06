@@ -10,7 +10,7 @@ function App() {
                 <img src={require('./images/IMG_20220816_164712_128.jpg')} alt="my profile photo" width="350" height="350" />
                 <div className="profile-text">
                     <h1>HILMI SAFAK</h1>
-                    <h4><span>FULL-STACK DEVELOPER</span></h4>
+                    <h4><span>BACKEND DEVELOPER</span></h4>
                     <p className="icons">
                         <a href="https://www.instagram.com/hilmi_safak/" target="_blank" className="i ai">
                             <FontAwesomeIcon icon={faInstagram} />
